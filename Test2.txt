@@ -1,1 +1,4 @@
 Try a new text editor
+
+Okay, so now we are working with branches
+So I dont mess things up.
