@@ -1,3 +1,8 @@
 Try a new text editor
 
+<<<<<<< HEAD
 What is going on going on
+=======
+Okay, so now we are working with branches
+So I dont mess things up.
+>>>>>>> MyBranch
