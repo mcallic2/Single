@@ -2,3 +2,5 @@ ChicFilA
 TacoBell
 McDonalds
 BurgerKing
+Wendys
+WhiteCastle
