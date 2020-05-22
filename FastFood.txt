@@ -4,3 +4,5 @@ McDonalds
 BurgerKing
 Wendys
 WhiteCastle
+KFC
+PandaExpress
